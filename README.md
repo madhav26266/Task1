@@ -6,6 +6,7 @@ Duration :  OCTOBER to DECEMBER 2024
 Mentor : Neela santhu
 
 
+
 Project Overview:
 The Image Gallery Project is a web application that enables users to upload,
 view, and organize images efficiently. It offers a simple interface for browsing,
